@@ -1,5 +1,6 @@
 import UIKit
 
+// Day6 closures part one
 
 let welcomeMessage = { (name: String) in
     print("Welcome \(name)")
